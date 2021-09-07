@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=UND3RT4K3R
+Comment=A dark flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=UND3RT4K3R
+MetacityTheme=UND3RT4K3R
+IconTheme=ACYLS
+CursorTheme=Bibata-Modern-Classic
+ButtonLayout=:minimize,maximize,close

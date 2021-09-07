@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 12.7 6.879"
+   height="26"
+   width="48"
+   version="1.1"
+   id="svg7062"
+   sodipodi:docname="toggle-off.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7064"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="13.5"
+     inkscape:cx="4.2962963"
+     inkscape:cy="8.3703704"
+     inkscape:window-width="1918"
+     inkscape:window-height="1006"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7062" />
+  <defs
+     id="defs7050">
+    <filter
+       id="A"
+       x="-0.14414112"
+       width="1.2882822"
+       y="-0.14414112"
+       height="1.2882822"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation=".286"
+         id="feGaussianBlur7047" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(0 -290.121)"
+     id="g7060">
+    <rect
+       ry="3.44"
+       y="290.121"
+       height="6.879"
+       width="12.7"
+       fill="#4d4d4d"
+       id="rect7052"
+       style="fill:#90009f;fill-opacity:1" />
+    <g
+       fill="#1b1b1b"
+       id="g7058">
+      <circle
+         cx="3.44"
+         cy="293.851"
+         r="2.381"
+         fill-opacity=".078"
+         filter="url(#A)"
+         id="circle7054" />
+      <circle
+         r="2.381"
+         cy="293.56"
+         cx="3.44"
+         id="circle7056"
+         style="fill:#000000;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
