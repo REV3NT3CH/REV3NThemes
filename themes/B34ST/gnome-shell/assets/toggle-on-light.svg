@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 12.7 6.879"
+   height="26"
+   width="48"
+   version="1.1"
+   id="svg2470"
+   sodipodi:docname="toggle-on-light.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2472"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="13.5"
+     inkscape:cx="29.777778"
+     inkscape:cy="11.555556"
+     inkscape:window-width="1434"
+     inkscape:window-height="746"
+     inkscape:window-x="2404"
+     inkscape:window-y="1"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g2468" />
+  <defs
+     id="defs2462">
+    <linearGradient
+       id="A"
+       x1="12.7"
+       y1="291.708"
+       x2="0"
+       y2="295.412"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#606264"
+         id="stop2457" />
+      <stop
+         offset="1"
+         stop-color="#606264"
+         id="stop2459" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(0 -290.121)"
+     id="g2468">
+    <rect
+       ry="3.44"
+       y="290.121"
+       height="6.879"
+       width="12.7"
+       fill="url(#A)"
+       id="rect2464"
+       style="fill:#222222;fill-opacity:1" />
+    <circle
+       r="2.381"
+       cy="293.56"
+       cx="9.26"
+       fill="#fff"
+       id="circle2466"
+       style="fill:#0080dc;fill-opacity:1" />
+  </g>
+</svg>
