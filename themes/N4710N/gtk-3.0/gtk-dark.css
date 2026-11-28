@@ -1702,10 +1702,11 @@ menubar,
 menu,
 .menu {
   margin: 4px;
-  padding: 0;
+  padding: 0.25em 0.25em 0.25em 0.25em;
   background-color: rgba(0, 0, 0, 0.3);
   background-clip: padding-box;
   border-radius: 10px;
+  border: 0.5px solid #A5ACAF;
   transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
   .csd menu, .csd .menu {
     padding: 4px 0px;
@@ -1725,7 +1726,7 @@ menu,
     menu menuitem:hover,
     .menu menuitem:hover {
       color: mix(#A5ACAF, #000000, 0.08);
-      border-radius: 10px;
+      border-radius: 5px;
       background-color: mix(#A5ACAF, #000000, 0.8); }
     menu menuitem:disabled,
     .menu menuitem:disabled {
@@ -1866,7 +1867,7 @@ notebook {
     notebook > header.top {
       padding-bottom: 0; }
       notebook > header.top > tabs > tab {
-        padding: 2px 10px;
+        padding: 2px 2px;
         min-width: 20px;
         min-height: 20px;
         outline-offset: -4px;
@@ -1878,7 +1879,7 @@ notebook {
     notebook > header.bottom {
       padding-top: 0; }
       notebook > header.bottom > tabs > tab {
-        padding: 2px 10px;
+        padding: 2px 2px;
         min-width: 20px;
         min-height: 20px;
         outline-offset: -4px;
@@ -1891,7 +1892,7 @@ notebook {
     notebook > header.right {
       padding-left: 0; }
       notebook > header.right > tabs > tab {
-        padding: 2px 10px;
+        padding: 2px 2px;
         min-width: 20px;
         min-height: 20px;
         outline-offset: -4px;
@@ -1904,7 +1905,7 @@ notebook {
     notebook > header.left {
       padding-right: 0; }
       notebook > header.left > tabs > tab {
-        padding: 2px 10px;
+        padding: 2px 2px;
         min-width: 20px;
         min-height: 20px;
         outline-offset: -4px;

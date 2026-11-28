@@ -211,7 +211,7 @@ StScrollBar {
 
 #Tooltip {
   border: 1px solid #dc0000;
-  border-radius: 5px;
+  border-radius: 20px;
   padding: 12px 12px;
   background-color: rgba(0, 0, 0, 0.70);
   color: #dc0000;
@@ -223,7 +223,7 @@ StScrollBar {
 #LookingGlassDialog {
   color: #dc0000;
   border: 1px solid #dc0000;
-  border-radius: 3px;
+  border-radius: 20px;
   background-color: rgba(0, 0, 0, 0.70);
   spacing: 4px;
   padding: 8px; }
@@ -232,8 +232,8 @@ StScrollBar {
   color: #dc0000;
   background-color: rgba(0, 0, 0, 0.85);
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.85);
-  border: 2px solid #dc0000;
-  border-radius: 10px 10px 10px 10px;
+  border: 1px solid #dc0000;
+  border-radius: 20px 20px 20px 20px;
   border-color: #dc0000; }
 
 .popup-sub-menu {
@@ -275,7 +275,7 @@ StScrollBar {
 .popup-combo-menu {
   color: #dc0000;
   border: 1px solid #dc0000;
-  border-radius: 3px;
+  border-radius: 20px;
   background-color: rgba(0, 0, 0, 0.75);
   box-shadow: none;
   padding: 1em 0em 1em 0em; }
@@ -828,7 +828,7 @@ StScrollBar {
   box-shadow: 0 1px 15px 4px rgba(0, 0, 0, 0.93);
   border-top-color: #dc0000;
   border-top: 4px;
-  border-radius: 5px;
+  border-radius: 20px;
   background-color: rgba(0, 0, 0, 0.70);
   padding: 13px;
   spacing-rows: 10px;
@@ -1210,7 +1210,7 @@ StScrollBar {
   color: #dc0000;
   border: 1px solid rgba(220, 0, 0, 0.32);
   background-color: rgba(0, 0, 0, 0.70);
-  border-radius: 3px;
+  border-radius: 20px;
   padding: 6px 12px 12px 12px;
   font-size: 1em; }
 
@@ -1281,13 +1281,13 @@ StScrollBar {
   color: #dc0000;
   border: 1px solid rgba(220, 0, 0, 0.92);
   background-color: rgba(0, 0, 0, 0.70);
-  border-radius: 3px;
+  border-radius: 20px;
   padding: 0px; }
   .grouped-window-list-thumbnail-menu > StBoxLayout {
     padding: 4px; }
   .grouped-window-list-thumbnail-menu .item-box {
     padding: 10px;
-    border-radius: 2px;
+    border-radius: 20px;
     spacing: 4px; }
     .grouped-window-list-thumbnail-menu .item-box:outlined {
       padding: 8px;
@@ -1573,7 +1573,7 @@ StScrollBar {
     background-color: rgba(220, 0, 0, 0.12); }
   .desklet-with-borders {
     border: 1px solid #dc0000;
-    border-radius: 5px;
+    border-radius: 20px;
     background-color: rgba(0, 0, 0, 0.70);
     color: #dc0000;
     padding: 12px;
@@ -1595,19 +1595,19 @@ StScrollBar {
       background-color: rgba(220, 0, 0, 0.12); }
   .desklet-header {
     border: 1px solid #dc0000;
-    border-radius: 5px 5px 0 0;
+    border-radius: 20px 5px 0 0;
     background-color: rgba(0, 0, 0, 0.75);
     color: #dc0000;
     font-size: 1em;
     padding: 12px;
     padding-bottom: 6px; }
   .desklet-drag-placeholder {
-    border: 2px solid #dc0000;
+    border: 1px solid #dc0000;
     background-color: rgba(220, 0, 0, 0.3); }
 
 .photoframe-box {
   border: 1px solid #dc0000;
-  border-radius: 5px;
+  border-radius: 20px;
   background-color: rgba(0, 0, 0, 0.70);
   color: #dc0000;
   padding: 12px;
